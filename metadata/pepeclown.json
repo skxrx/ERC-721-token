@@ -1,0 +1,23 @@
+{
+  "name": "Pepeclown",
+  "description": "Your classic friend every time when you ask advice",
+  "image": "ipfs://QmRsmH1Jtk84ZqhaZ71y43GEWJBRhzxQRNCZ7dM77VUPLb",
+    "attributes": [
+    {
+      "trait_type": "Nose", 
+      "value": "red"
+    }, 
+    {
+      "trait_type": "Colors", 
+      "value": 6
+    }, 
+    {
+      "trait_type": "Power", 
+      "value": 1337
+    }, 
+    {
+      "trait_type": "Class", 
+      "value": "lgbt"
+    }
+  ]
+}
